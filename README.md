@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CourtneyMarsh/CourtneyMarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello Starshine The Earth Says Hello!
+
+### About Me 🥳
+
+I like turtles.
+
+### Knowledge 🧠
+
+Currently studying ReactJs and looking forward to learning other frameworks.
+
+### Currently working on? 👷‍♂️
+
+Creating various projects using ReactJs.
+
