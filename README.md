@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello Starshine The Earth Says Hello!
+## You can find me in the weeds of Javascript 🤪
 
 ### About Me 🥳
 
