@@ -12,17 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## You can find me in the weeds of Javascript 🤪
+## Deep into that darkness peering, long I stood there wondering, fearing, doubting, dreaming dreams no mortal ever dared to dream before 🐦‍⬛
 
-### About Me 🥳
+### About Me 🤓
 
-I like turtles.
+Passionate about devloping easier, more effective ways to enhance the human experience.
 
 ### Knowledge 🧠
 
-Currently studying ReactJs and looking forward to learning other frameworks.
+Currently studying Python and ReactJs.  Continuing to study backend software development languages, frameworks, and packages.
 
-### Currently working on? 👷‍♂️
+### Working on ✨
 
-Creating various projects using ReactJs.
+Developing APIs using Flash framework and practicing with Firbase and Postgres DBs.
+
+### Achievement Goal 👩🏻‍💻
+
+To become a full-time backend Python developer within an enterprise work setting.
+
 
