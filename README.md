@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### About Me 🤓
 
-Passionate about devloping easier, more effective ways to enhance the human experience.
+Passionate about developing easier, more effective ways to enhance the human experience.
 
 ### Knowledge 🧠
 
