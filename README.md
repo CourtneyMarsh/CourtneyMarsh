@@ -24,7 +24,7 @@ Currently studying Python and ReactJs.  Continuing to study backend software dev
 
 ### Working on ✨
 
-Developing APIs using Flash framework and practicing with Firbase and Postgres DBs.
+Developing APIs using Flask framework and practicing with Firebase and Postgres DBs.
 
 ### Achievement Goal 👩🏻‍💻
 
