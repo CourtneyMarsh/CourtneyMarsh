@@ -20,14 +20,14 @@ Passionate about developing easier, more effective ways to enhance the human exp
 
 ### Knowledge 🧠
 
-Currently studying Python and ReactJs.  Continuing to study backend software development languages, frameworks, and packages.
+Currently studying ReactJs and Python.  Continuing to study front-end and back-end software development languages, frameworks, and packages.
 
 ### Working on ✨
 
-Developing APIs using Flask framework and practicing with Firebase and Postgres DBs.
+Developing APIs using Flask and Express frameworks. Practicing with Firebase and Postgres DBs.
 
 ### Achievement Goal 👩🏻‍💻
 
-To become a full-time backend Python developer within an enterprise work setting.
+To become a full-time full stack developer within an enterprise work setting.
 
 
